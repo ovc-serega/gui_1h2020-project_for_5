@@ -1,0 +1,13 @@
+<RCC>
+    <qresource prefix="/btn">
+        <file alias="next">buttons/next.png</file>
+        <file alias="pause">buttons/pause.png</file>
+        <file alias="play">buttons/play.png</file>
+        <file alias="prev">buttons/previous.png</file>
+        <file alias="stop">buttons/stop.png</file>
+        <file alias="current_loop">buttons/current_item_loop.png</file>
+        <file alias="playlist_loop">buttons/playlist_loop.png</file>
+        <file alias="random">buttons/random.png</file>
+        <file alias="add">buttons/add.png</file>
+    </qresource>
+</RCC>
